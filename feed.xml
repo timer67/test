@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grimoire</title>
+    <description>D&amp;D 5e spell list, sorted by class and level.</description>
+    <link>http://ephe.github.io/grimoire/</link>
+    <atom:link href="http://ephe.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 08 Jun 2015 00:41:39 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2015 00:41:39 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Invisibility</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level illusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (an eyelash encased in gum arabic)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.&lt;/p&gt;
+
+&lt;p&gt;When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jun 2015 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/invisibility</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/invisibility</guid>
+        
+        <category>bard</category>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Blade Ward</title>
+        <description>&lt;p&gt;&lt;strong&gt;Abjuration cantrip&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 Round&lt;/p&gt;
+
+&lt;p&gt;You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 May 2015 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/blade-ward</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/blade-ward</guid>
+        
+        <category>bard</category>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>cantrip</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Suggestion</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level enchantment&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V,M (a snake’s tongue and either a bit of honeycomb or a drop of sweet oil)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 8 hours&lt;/p&gt;
+
+&lt;p&gt;You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you.
+Creatures that can’t be charmed are immune to this effect.
+The suggestion must be worded in such a manner as to make the course of action sound reasonable.
+Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.&lt;/p&gt;
+
+&lt;p&gt;The target must make a Wisdom saving throw.
+On a failed save, it pursues the course of action you described to the best of its ability.
+The suggested course of action can continue for the entire duration.
+If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.&lt;/p&gt;
+
+&lt;p&gt;You can also specify conditions that will trigger a special activity during the duration.
+For example, you might suggest that a knight give her warhorse to the first beggar she meets.
+If the condition isn’t met before the spell expires, the activity isn’t performed.&lt;/p&gt;
+
+&lt;p&gt;If you or any of your companions damage the target, the spell ends.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 May 2015 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/suggestion</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/suggestion</guid>
+        
+        <category>bard</category>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Teleport</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 10 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object, that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can’t be held or carried by an unwilling creature.&lt;/p&gt;
+
+&lt;p&gt;The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls d100 and consults the table.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Familiarity&lt;/th&gt;
+      &lt;th&gt;Mishap&lt;/th&gt;
+      &lt;th&gt;Simliar Area&lt;/th&gt;
+      &lt;th&gt;Off Target&lt;/th&gt;
+      &lt;th&gt;On Target&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Permanent circle&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;01-100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Associated object&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;01-100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Very familiar&lt;/td&gt;
+      &lt;td&gt;01-05&lt;/td&gt;
+      &lt;td&gt;06-13&lt;/td&gt;
+      &lt;td&gt;14-24&lt;/td&gt;
+      &lt;td&gt;25-100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Seen casually&lt;/td&gt;
+      &lt;td&gt;01-33&lt;/td&gt;
+      &lt;td&gt;34-43&lt;/td&gt;
+      &lt;td&gt;44-53&lt;/td&gt;
+      &lt;td&gt;54-100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Viewed once&lt;/td&gt;
+      &lt;td&gt;01-43&lt;/td&gt;
+      &lt;td&gt;44-53&lt;/td&gt;
+      &lt;td&gt;54-73&lt;/td&gt;
+      &lt;td&gt;74-100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;01-43&lt;/td&gt;
+      &lt;td&gt;44-53&lt;/td&gt;
+      &lt;td&gt;54-73&lt;/td&gt;
+      &lt;td&gt;74-100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;False destination&lt;/td&gt;
+      &lt;td&gt;01-50&lt;/td&gt;
+      &lt;td&gt;51-100&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Familiarity.&lt;/strong&gt; “Permanent circle” means a permanent teleportation circle whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.&lt;/p&gt;
+
+&lt;p&gt;“Very familiar” is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell. “Sean casually” is someplace you have seen more than once but with which you aren’t very familiar. “Viewed once” is a place you have seen once, possibly using magic. “Description” is a place whose location and appearance you know through someone else’s description, perhaps from a map.&lt;/p&gt;
+
+&lt;p&gt;“False destination” is a place that doesn’t exist. Perhaps you tried to scry an enemy’s sanctum but instead view an illusion, or you were attempting to teleport to a familiar location that no longer exists.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On Target.&lt;/strong&gt; You and your group (or the target object) appear where you want to.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Off Target.&lt;/strong&gt; You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is 1d10 x 1d10 percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two d10s, then you would be off target by 15 percent, or 18 miles. The DM determines the direction off target randomly by rolling a determines the direction off target randomly by rolling a d8 and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Similar Area.&lt;/strong&gt; You and your group (or the target object) wind up in a different area that’s visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another wizard’s laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the spell has no range limit, you could conceivably wind up anywhere on the plane.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mishap.&lt;/strong&gt; The spell’s unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/teleport</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/teleport</guid>
+        
+        <category>bard</category>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level7</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Symbol</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level abjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 minute&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Until dispelled or triggered&lt;/p&gt;
+
+&lt;p&gt;When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.&lt;/p&gt;
+
+&lt;p&gt;The glyph is nearly invisible, requiring an Intelligence (Investigation) check against your spell save DC to find it.&lt;/p&gt;
+
+&lt;p&gt;You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or stepping on the glyph, removing another object covering it, approaching within a certain distance of it, or manipulating the object that holds it. For glyphs inscribed within an object, the most common triggers are opening the object, approaching within a certain distance of it, or seeing or reading the glyph.&lt;/p&gt;
+
+&lt;p&gt;You can further refine the trigger so the spell is activated only under certain circumstances or according to a creature’s physical characteristics (such as height or weight), or physical kind (for example, the ward could be set to affect hags or shapechangers). You can also specify creatures that don’t trigger the glyph, such as those who say a certain password.&lt;/p&gt;
+
+&lt;p&gt;When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-foot-radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activate is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Death.&lt;/strong&gt; Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discord.&lt;/strong&gt; Each target must make a Constitution saving throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fear.&lt;/strong&gt; Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hopelessness.&lt;/strong&gt; Each target must make a Charisma saving throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can’t attack or target any creature with harmful abilities, spells, or other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Insanity.&lt;/strong&gt; Each target must make an Intelligence saving throw. On a failed save, the target is driven insane for 1 minute. An insane creature can’t take actions, can’t understand what other creatures say, can’t read, and speaks only in gibberish. The DM controls its movement, which is erratic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pain.&lt;/strong&gt; Each target must make a Constitution saving throw and becomes incapacitated with excruciating pain for 1 minute on a failed save.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sleep.&lt;/strong&gt; Each target must make a Wisdom saving throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stunning.&lt;/strong&gt; Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/symbol</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/symbol</guid>
+        
+        <category>bard</category>
+        
+        <category>wizard</category>
+        
+        <category>level7</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Simulacrum</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level illusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 12 hours&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature’s body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Until dispelled&lt;/p&gt;
+
+&lt;p&gt;You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature’s hit point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates.&lt;/p&gt;
+
+&lt;p&gt;The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots.&lt;/p&gt;
+
+&lt;p&gt;If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100gp per hit point it regains. The simulacrum lasts until it drops to 0 hit points, at which point it reverts to snow and melts instantly.&lt;/p&gt;
+
+&lt;p&gt;If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/simulacrum</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/simulacrum</guid>
+        
+        <category>wizard</category>
+        
+        <category>level7</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Sequester</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Until dispelled&lt;/p&gt;
+
+&lt;p&gt;By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can’t be targeted by divination spells or perceived through scrying sensors created by divination spells.&lt;/p&gt;
+
+&lt;p&gt;If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn’t grow older.&lt;/p&gt;
+
+&lt;p&gt;You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target.  Examples include “after 1,000 years” or “when the tarrasque awakens.” This spell also ends if the target takes any damage.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/sequester</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/sequester</guid>
+        
+        <category>wizard</category>
+        
+        <category>level7</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Reverse Gravity</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 100 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a lodestone and iron filings)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;This spell reverses gravity in a 50-foot-radius, 100-foot high cylinder centered on a point within range. All creatures and objects that aren’t somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.&lt;/p&gt;
+
+&lt;p&gt;If some solid object (such as a ceiling) is encountered in this fall, falling objects and creature strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.&lt;/p&gt;
+
+&lt;p&gt;At the end of the duration, affected objects and creatures fall back down.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/reverse-gravity</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/reverse-gravity</guid>
+        
+        <category>druid</category>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level7</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Resurrection</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 hour&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You touch a dead creature that has been dead for no more than a century, that didn’t die of old age, and that isn’t undead. If its soul is free and willing, the target returns to life with all its hit points.&lt;/p&gt;
+
+&lt;p&gt;This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn’t however, remove magical diseases, curses, and the like; if such effects aren’t removed prior to casting the spell, the afflict the target on its return to life.&lt;/p&gt;
+
+&lt;p&gt;This spell closes all mortal wounds and restores any missing body parts.&lt;/p&gt;
+
+&lt;p&gt;Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.&lt;/p&gt;
+
+&lt;p&gt;Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can’t cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/resurrection</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/resurrection</guid>
+        
+        <category>bard</category>
+        
+        <category>cleric</category>
+        
+        <category>druid</category>
+        
+        <category>level7</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Regenerate</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 minute&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a prayer wheel and holy water)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 hour&lt;/p&gt;
+
+&lt;p&gt;You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).&lt;/p&gt;
+
+&lt;p&gt;The target’s severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/regenerate</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/regenerate</guid>
+        
+        <category>bard</category>
+        
+        <category>cleric</category>
+        
+        <category>druid</category>
+        
+        <category>level7</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+  </channel>
+</rss>
